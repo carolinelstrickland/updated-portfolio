@@ -1,3 +1,16 @@
-p, title, #name, .navlink, h3, .links{
+p, title, #name, #navbar-nav, h3, .links{
     font-family: 'Quicksand', sans-serif;
 }
+
+#imgdiv {
+text-align: center;
+}
+
+#About-Me {
+    background-color: lightslategrey;
+}
+
+.text-center {
+    font-family: 'Quicksand', sans-serif;
+}
+
