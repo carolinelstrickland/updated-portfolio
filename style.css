@@ -1,4 +1,4 @@
-p, title, #name, #navbar-nav, h3, .links{
+p, title, #name, #navbar-nav, .text-center, .links{
     font-family: 'Quicksand', sans-serif;
 }
 
@@ -6,14 +6,10 @@ p, title, #name, #navbar-nav, h3, .links{
 text-align: center;
 }
 
-#About-Me, .container {
+#About-Me, .container, form {
     background-color: lightyellow;
     width: 100%;
     margin: 0;
-}
-
-.text-center {
-    font-family: 'Quicksand', sans-serif;
 }
 
 .links {
