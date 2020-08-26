@@ -6,11 +6,20 @@ p, title, #name, #navbar-nav, h3, .links{
 text-align: center;
 }
 
-#About-Me {
-    background-color: lightslategrey;
+#About-Me, .container {
+    background-color: lightyellow;
+    width: 100%;
+    margin: 0;
 }
 
 .text-center {
     font-family: 'Quicksand', sans-serif;
 }
+
+.links {
+    text-align: center;
+}
+
+
+
 
